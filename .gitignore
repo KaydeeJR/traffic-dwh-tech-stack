@@ -130,3 +130,5 @@ dmypy.json
 
 # User defined
 week5
+data
+standalone_admin_password.txt
