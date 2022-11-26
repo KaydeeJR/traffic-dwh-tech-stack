@@ -1,0 +1,1 @@
+select "vehicle_type" from {{ ref('d52018102408300900Trajectories') }}
